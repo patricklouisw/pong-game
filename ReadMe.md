@@ -1,4 +1,10 @@
-# Planning
+# Pong Game
+
+## What is it?
+
+Recreation of Pong game using Turtle
+
+## Plan
 
 Objects:
 1. Pad
